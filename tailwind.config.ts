@@ -17,6 +17,13 @@ const config: Config = {
         "screen-72": "calc(100vh - 72px)",
         "screen-132": "calc(100vh - 132px)",
       },
+      colors: {
+        dark: "#000000",
+        darkgray: "#797979",
+        gray: "#B8B8B8",
+        lightgray: "#E1E1E1",
+        light: "#FFFFFF",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
